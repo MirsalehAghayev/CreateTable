@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+table
+{
+    text-emphasis: solid 2px black;
+    border: solid 1px black ;
+    background-color: azure;
+}
+table tr td{
+    border: solid 2px black;
+    padding: 4px;
+}
+table thead{
+    text-align: center;
+    font-weight: bold;
+} 
+
